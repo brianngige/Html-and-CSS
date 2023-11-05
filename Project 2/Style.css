@@ -1,0 +1,85 @@
+
+.nax-item{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.nax-items{
+    
+    text-transform: capitalize;
+    text-decoration: solid;
+
+}
+.click{
+    text-decoration: none;
+    color:#EAD7BB;
+    
+}
+a:hover{
+    text-decoration: underline;
+}
+.con{
+    padding: 10px;
+    margin-left: 0px;
+    background-color:#113946;
+}
+.con1{
+    background-color:  #BCA37F;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+#Intro{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Intro-img{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.Intro-img > img{
+height: 150px;
+width: 150px;
+border-radius: 50%;
+}
+.Intro-p{
+    padding: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+.Ed-list{
+    list-style: none;
+    text-align: start;
+    
+}
+.cob{
+    background-color: #FFF2D8;
+}
+.cot{
+    background-color: #EAD7BB;
+}
+.Skill-list1{
+    padding-left: 60px;
+}
+.Skill-list0{
+    padding-left: 50px;
+}
+.Skill-list{
+   
+   padding-left: 15px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+.dbms p{
+text-align: center;
+}
